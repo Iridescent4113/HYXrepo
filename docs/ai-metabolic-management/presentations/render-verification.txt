@@ -1,0 +1,2 @@
+18 slides and PDF pages; 437 visible SVG text frames verified in rendered PDF. Missing text: 0. Text beyond page bounds: 0. Speaker notes: 18.
+Fontconfig mapping Microsoft YaHei to installed Noto Sans CJK SC used for Linux PDF rendering; final PPTX uses converter-supported theme font mapping.
