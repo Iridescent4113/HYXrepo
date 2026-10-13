@@ -1,0 +1,6 @@
+Demo plan verification:
+16 tasks; 100% total weight; 4 calendar weeks; all FS/SS schedule conditions validated.
+Excel has 5 sheets; delivered baseline maturity values are all 0.
+Functional spreadsheet test on an isolated copy: D05 changed to 2026-11-02..11-04; weekly bar moved from W2 to W3; duration=3 days; maturity=0.5 yields 4% contribution and 4% total; no formula errors.
+PDF has 2 pages and all 16 task IDs. Chinese chart preview reviewed.
+This verifies planning artifacts only, not a running application or a clinically validated model.

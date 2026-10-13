@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1512pt" height="576pt" viewBox="0 0 1512 576" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T05:34:18.973641</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 576 
+L 1512 576 
+L 1512 0 
+L 0 0 
+z
+" style="fill: #f4f7fa"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 529.2 489.6 
+L 1474.2 489.6 
+L 1474.2 109.44 
+L 529.2 109.44 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 529.2 489.6 
+L 765.45 489.6 
+L 765.45 109.44 
+L 529.2 109.44 
+z
+" clip-path="url(#p905fa3eed6)" style="fill: #f4f7fa; stroke: #f4f7fa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 1001.7 489.6 
+L 1237.95 489.6 
+L 1237.95 109.44 
+L 1001.7 109.44 
+z
+" clip-path="url(#p905fa3eed6)" style="fill: #f4f7fa; stroke: #f4f7fa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 529.2 129.96864 
+L 765.45 129.96864 
+L 765.45 164.94336 
+L 529.2 164.94336 
+z
+" clip-path="url(#p905fa3eed6)" style="fill: #244f70"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 765.45 206.00064 
+L 1001.7 206.00064 
+L 1001.7 240.97536 
+L 765.45 240.97536 
+z
+" clip-path="url(#p905fa3eed6)" style="fill: #087f8c"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 1001.7 282.03264 
+L 1237.95 282.03264 
+L 1237.95 317.00736 
+L 1001.7 317.00736 
+z
+" clip-path="url(#p905fa3eed6)" style="fill: #269e9b"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 1237.95 358.06464 
+L 1474.2 358.06464 
+L 1474.2 393.03936 
+L 1237.95 393.03936 
+z
+" clip-path="url(#p905fa3eed6)" style="fill: #596cb0"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m8be69a4116" d="M -0 5.91608 
+L 5.91608 0 
+L 0 -5.91608 
+L -5.91608 -0 
+z
+" style="stroke: #a65b13"/>
+    </defs>
+    <g clip-path="url(#p905fa3eed6)">
+     <use xlink:href="#m8be69a4116" x="748.575" y="451.584" style="fill: #a65b13; stroke: #a65b13"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p905fa3eed6)">
+     <use xlink:href="#m8be69a4116" x="984.825" y="451.584" style="fill: #a65b13; stroke: #a65b13"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#p905fa3eed6)">
+     <use xlink:href="#m8be69a4116" x="1221.075" y="451.584" style="fill: #a65b13; stroke: #a65b13"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p905fa3eed6)">
+     <use xlink:href="#m8be69a4116" x="1457.325" y="451.584" style="fill: #a65b13; stroke: #a65b13"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'" transform="translate(521.318672 84.89425)">W1</text>
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'" transform="translate(515.081328 97.920312)">10-19</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'" transform="translate(757.568672 84.89425)">W2</text>
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'" transform="translate(751.331328 97.920312)">10-26</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'" transform="translate(993.818672 84.89425)">W3</text>
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'" transform="translate(987.581328 97.920312)">11-02</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'" transform="translate(1230.068672 84.89425)">W4</text>
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'" transform="translate(1223.831328 97.920312)">11-09</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_5">
+    <path d="M 529.2 489.6 
+L 529.2 109.44 
+" clip-path="url(#p905fa3eed6)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 765.45 489.6 
+L 765.45 109.44 
+" clip-path="url(#p905fa3eed6)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 1001.7 489.6 
+L 1001.7 109.44 
+" clip-path="url(#p905fa3eed6)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 1237.95 489.6 
+L 1237.95 109.44 
+" clip-path="url(#p905fa3eed6)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 529.2 185.472 
+L 1474.2 185.472 
+" clip-path="url(#p905fa3eed6)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 529.2 261.504 
+L 1474.2 261.504 
+" clip-path="url(#p905fa3eed6)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 529.2 337.536 
+L 1474.2 337.536 
+" clip-path="url(#p905fa3eed6)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 529.2 413.568 
+L 1474.2 413.568 
+" clip-path="url(#p905fa3eed6)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 529.2 489.6 
+L 1474.2 489.6 
+" clip-path="url(#p905fa3eed6)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="75.6" y="142.016847" transform="rotate(-0 75.6 142.016847)">W1  场景、样本与契约</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="75.6" y="167.777735" transform="rotate(-0 75.6 167.777735)">10-19～10-25</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #ffffff" x="647.325" y="150.85725" transform="rotate(-0 647.325 150.85725)">1周</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="75.6" y="218.048847" transform="rotate(-0 75.6 218.048847)">W2  曲线、画像与基础解释</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="75.6" y="243.809735" transform="rotate(-0 75.6 243.809735)">10-26～11-01</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #ffffff" x="883.575" y="226.88925" transform="rotate(-0 883.575 226.88925)">1周</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="75.6" y="294.080847" transform="rotate(-0 75.6 294.080847)">W3  角色建议、审核与反馈</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="75.6" y="319.841735" transform="rotate(-0 75.6 319.841735)">11-02～11-08</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #ffffff" x="1119.825" y="302.92125" transform="rotate(-0 1119.825 302.92125)">1周</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="75.6" y="370.112847" transform="rotate(-0 75.6 370.112847)">W4  联调、验收与演示交接</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="75.6" y="395.873735" transform="rotate(-0 75.6 395.873735)">11-09～11-15</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #ffffff" x="1356.075" y="378.95325" transform="rotate(-0 1356.075 378.95325)">1周</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="75.6" y="455.268687" transform="rotate(-0 75.6 455.268687)">周末验收</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #a65b13" x="748.575" y="428.584" transform="rotate(-0 748.575 428.584)">样本/原型</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #a65b13" x="984.825" y="428.584" transform="rotate(-0 984.825 428.584)">曲线/画像</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #a65b13" x="1221.075" y="428.584" transform="rotate(-0 1221.075 428.584)">审核/反馈</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end; fill: #a65b13" x="1457.325" y="428.584" transform="rotate(-0 1457.325 428.584)">Demo交付</text>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 23px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="45.36" y="31.68" transform="rotate(-0 45.36 31.68)">AI＋代谢Demo｜4周阶段甘特图</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="45.36" y="60.48" transform="rotate(-0 45.36 60.48)">一个场景 · 两个智能体角色 · 模拟医生审核与反馈 · 计划基线，当前实现进度0%</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="45.36" y="534.528" transform="rotate(-0 45.36 534.528)">2026-10-19启动 → 2026-11-15交付；10-23先冻结范围与接口草案。原正式项目IPD排期保持独立。</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="45.36" y="552.96" transform="rotate(-0 45.36 552.96)">默认离线模板可演示；真实CGM与自有模型只预留接口。演示不用于诊疗，不表示临床或模型效果已验证。</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p905fa3eed6">
+   <rect x="529.2" y="109.44" width="945" height="380.16"/>
+  </clipPath>
+ </defs>
+</svg>
