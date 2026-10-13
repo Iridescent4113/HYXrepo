@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1728pt" height="1152pt" viewBox="0 0 1728 1152" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T04:44:02.162316</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1152 
+L 1728 1152 
+L 1728 0 
+L 0 0 
+z
+" style="fill: #f4f7fa"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 708.48 979.2 
+L 1684.8 979.2 
+L 1684.8 230.4 
+L 708.48 230.4 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 708.48 979.2 
+L 778.217143 979.2 
+L 778.217143 230.4 
+L 708.48 230.4 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #f4f7fa; stroke: #f4f7fa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 847.954286 979.2 
+L 917.691429 979.2 
+L 917.691429 230.4 
+L 847.954286 230.4 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #f4f7fa; stroke: #f4f7fa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 987.428571 979.2 
+L 1057.165714 979.2 
+L 1057.165714 230.4 
+L 987.428571 230.4 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #f4f7fa; stroke: #f4f7fa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 1126.902857 979.2 
+L 1196.64 979.2 
+L 1196.64 230.4 
+L 1126.902857 230.4 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #f4f7fa; stroke: #f4f7fa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 1266.377143 979.2 
+L 1336.114286 979.2 
+L 1336.114286 230.4 
+L 1266.377143 230.4 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #f4f7fa; stroke: #f4f7fa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 1405.851429 979.2 
+L 1475.588571 979.2 
+L 1475.588571 230.4 
+L 1405.851429 230.4 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #f4f7fa; stroke: #f4f7fa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 1545.325714 979.2 
+L 1615.062857 979.2 
+L 1615.062857 230.4 
+L 1545.325714 230.4 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #f4f7fa; stroke: #f4f7fa; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(702.031641 208.68075)">W1</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(696.928359 219.338438)">10-19</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(771.768783 208.68075)">W2</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(766.665502 219.338438)">10-26</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(841.505926 208.68075)">W3</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(836.402645 219.338438)">11-02</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(911.243069 208.68075)">W4</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(906.139788 219.338438)">11-09</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(980.980212 208.68075)">W5</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(975.876931 219.338438)">11-16</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1050.717355 208.68075)">W6</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1045.614074 219.338438)">11-23</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1120.454498 208.68075)">W7</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1115.351217 219.338438)">11-30</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1190.191641 208.68075)">W8</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1185.088359 219.338438)">12-07</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1259.928783 208.68075)">W9</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1254.825502 219.338438)">12-14</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10"/>
+     <g id="text_10">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1327.168426 208.68075)">W10</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1324.562645 219.338438)">12-21</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11"/>
+     <g id="text_11">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1396.905569 208.68075)">W11</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1394.299788 219.338438)">12-28</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_12"/>
+     <g id="text_12">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1466.642712 208.68075)">W12</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1464.036931 219.338438)">01-04</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_13"/>
+     <g id="text_13">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1536.379855 208.68075)">W13</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1533.774074 219.338438)">01-11</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_14"/>
+     <g id="text_14">
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1606.116998 208.68075)">W14</text>
+      <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'" transform="translate(1603.511217 219.338438)">01-18</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_15">
+    <path d="M 708.48 979.2 
+L 708.48 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 778.217143 979.2 
+L 778.217143 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 847.954286 979.2 
+L 847.954286 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 917.691429 979.2 
+L 917.691429 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 987.428571 979.2 
+L 987.428571 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 1057.165714 979.2 
+L 1057.165714 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 1126.902857 979.2 
+L 1126.902857 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 1196.64 979.2 
+L 1196.64 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 1266.377143 979.2 
+L 1266.377143 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 1336.114286 979.2 
+L 1336.114286 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 1405.851429 979.2 
+L 1405.851429 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 1475.588571 979.2 
+L 1475.588571 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 1545.325714 979.2 
+L 1545.325714 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 1615.062857 979.2 
+L 1615.062857 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #d9e3ea; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 708.48 267.84 
+L 1684.8 267.84 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 708.48 305.28 
+L 1684.8 305.28 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_31">
+    <path d="M 708.48 342.72 
+L 1684.8 342.72 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 708.48 380.16 
+L 1684.8 380.16 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 708.48 417.6 
+L 1684.8 417.6 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 708.48 455.04 
+L 1684.8 455.04 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 708.48 492.48 
+L 1684.8 492.48 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 708.48 529.92 
+L 1684.8 529.92 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 708.48 567.36 
+L 1684.8 567.36 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_38">
+    <path d="M 708.48 604.8 
+L 1684.8 604.8 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_39">
+    <path d="M 708.48 642.24 
+L 1684.8 642.24 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_40">
+    <path d="M 708.48 679.68 
+L 1684.8 679.68 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_41">
+    <path d="M 708.48 717.12 
+L 1684.8 717.12 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_42">
+    <path d="M 708.48 754.56 
+L 1684.8 754.56 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_43">
+    <path d="M 708.48 792 
+L 1684.8 792 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_44">
+    <path d="M 708.48 829.44 
+L 1684.8 829.44 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_45">
+    <path d="M 708.48 866.88 
+L 1684.8 866.88 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_46">
+    <path d="M 708.48 904.32 
+L 1684.8 904.32 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_47">
+    <path d="M 708.48 941.76 
+L 1684.8 941.76 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_48">
+    <path d="M 708.48 979.2 
+L 1684.8 979.2 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke: #e3e9ee; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_49">
+    <path d="M 842.973061 979.2 
+L 842.973061 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke-dasharray: 3.33,1.44; stroke-dashoffset: 0; stroke: #a65b13; stroke-opacity: 0.8; stroke-width: 0.9"/>
+   </g>
+   <g id="line2d_50">
+    <path d="M 982.447347 979.2 
+L 982.447347 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke-dasharray: 3.33,1.44; stroke-dashoffset: 0; stroke: #a65b13; stroke-opacity: 0.8; stroke-width: 0.9"/>
+   </g>
+   <g id="line2d_51">
+    <path d="M 1400.870204 979.2 
+L 1400.870204 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke-dasharray: 3.33,1.44; stroke-dashoffset: 0; stroke: #a65b13; stroke-opacity: 0.8; stroke-width: 0.9"/>
+   </g>
+   <g id="line2d_52">
+    <path d="M 1540.34449 979.2 
+L 1540.34449 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke-dasharray: 3.33,1.44; stroke-dashoffset: 0; stroke: #a65b13; stroke-opacity: 0.8; stroke-width: 0.9"/>
+   </g>
+   <g id="line2d_53">
+    <path d="M 1679.818776 979.2 
+L 1679.818776 230.4 
+" clip-path="url(#pa9d6bfd38d)" style="fill: none; stroke-dasharray: 3.33,1.44; stroke-dashoffset: 0; stroke: #a65b13; stroke-opacity: 0.8; stroke-width: 0.9"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 708.48 240.1344 
+L 847.954286 240.1344 
+L 847.954286 258.1056 
+L 708.48 258.1056 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #244f70"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="248.352094" transform="rotate(-0 68.9904 248.352094)">C01  首期人群/预期用途/用户路径</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="260.136434" transform="rotate(-0 68.9904 260.136434)">产品＋临床  |  10-19～11-01</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 708.48 277.5744 
+L 847.954286 277.5744 
+L 847.954286 295.5456 
+L 708.48 295.5456 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #244f70"/>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="285.792094" transform="rotate(-0 68.9904 285.792094)">C02  机构/团队/预算/试点合作</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="297.555184" transform="rotate(-0 68.9904 297.555184)">PDT负责人  |  10-19～11-01</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 708.48 315.0144 
+L 847.954286 315.0144 
+L 847.954286 332.9856 
+L 708.48 332.9856 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #244f70"/>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="323.232094" transform="rotate(-0 68.9904 323.232094)">C03  CGM与训练数据路径确认</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="334.999169" transform="rotate(-0 68.9904 334.999169)">数据负责人  |  10-19～11-01</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 847.954286 352.4544 
+L 987.428571 352.4544 
+L 987.428571 370.4256 
+L 847.954286 370.4256 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #527a97"/>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="360.672094" transform="rotate(-0 68.9904 360.672094)">P01  架构/数据契约/接入PoC</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="372.435184" transform="rotate(-0 68.9904 372.435184)">技术负责人  |  11-02～11-15</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 847.954286 389.8944 
+L 987.428571 389.8944 
+L 987.428571 407.8656 
+L 847.954286 407.8656 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #527a97"/>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="398.117836" transform="rotate(-0 68.9904 398.117836)">P02  同意/权限/风险问卷/临床规则</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="409.896434" transform="rotate(-0 68.9904 409.896434)">临床＋合规  |  11-02～11-15</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 847.954286 427.3344 
+L 987.428571 427.3344 
+L 987.428571 445.3056 
+L 847.954286 445.3056 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #527a97"/>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="435.557836" transform="rotate(-0 68.9904 435.557836)">P03  验收/模型标签/试点准入方案</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="447.336434" transform="rotate(-0 68.9904 447.336434)">QA＋算法＋临床  |  11-02～11-15</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 987.428571 464.7744 
+L 1126.902857 464.7744 
+L 1126.902857 482.7456 
+L 987.428571 482.7456 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #087f8c"/>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="472.992094" transform="rotate(-0 68.9904 472.992094)">D01  CGM绑定/授权/原始落库</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="484.746552" transform="rotate(-0 68.9904 484.746552)">后端  |  11-16～11-29</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 987.428571 502.2144 
+L 1336.114286 502.2144 
+L 1336.114286 520.1856 
+L 987.428571 520.1856 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #087f8c"/>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="510.432094" transform="rotate(-0 68.9904 510.432094)">D02  标准观测/去重/补拉/质量</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="522.199169" transform="rotate(-0 68.9904 522.199169)">后端＋数据  |  11-16～12-20</text>
+   </g>
+   <g id="patch_18">
+    <path d="M 1057.165714 539.6544 
+L 1336.114286 539.6544 
+L 1336.114286 557.6256 
+L 1057.165714 557.6256 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #087f8c"/>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="547.872094" transform="rotate(-0 68.9904 547.872094)">D03  曲线/同步监控/数据查询</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="559.656434" transform="rotate(-0 68.9904 559.656434)">客户端＋后端  |  11-23～12-20</text>
+   </g>
+   <g id="patch_19">
+    <path d="M 987.428571 577.0944 
+L 1336.114286 577.0944 
+L 1336.114286 595.0656 
+L 987.428571 595.0656 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #4d6ab1"/>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="585.317836" transform="rotate(-0 68.9904 585.317836)">M01  审定统计/规则与画像基线</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="597.096434" transform="rotate(-0 68.9904 597.096434)">算法＋临床  |  11-16～12-20</text>
+   </g>
+   <g id="patch_20">
+    <path d="M 987.428571 614.5344 
+L 1405.851429 614.5344 
+L 1405.851429 632.5056 
+L 987.428571 632.5056 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #4d6ab1"/>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="622.752094" transform="rotate(-0 68.9904 622.752094)">M02  自有模型首轮训练/独立离线评估</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="634.536434" transform="rotate(-0 68.9904 634.536434)">算法  |  11-16～12-27</text>
+   </g>
+   <g id="patch_21">
+    <path d="M 1126.902857 651.9744 
+L 1405.851429 651.9744 
+L 1405.851429 669.9456 
+L 1126.902857 669.9456 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #4d6ab1"/>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="660.192094" transform="rotate(-0 68.9904 660.192094)">M03  解释/模型服务/版本/降级</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="671.976434" transform="rotate(-0 68.9904 671.976434)">算法＋后端  |  11-30～12-27</text>
+   </g>
+   <g id="patch_22">
+    <path d="M 987.428571 689.4144 
+L 1336.114286 689.4144 
+L 1336.114286 707.3856 
+L 987.428571 707.3856 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #219c91"/>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="697.632094" transform="rotate(-0 68.9904 697.632094)">U01  患者资料/曲线/建议反馈</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="709.416434" transform="rotate(-0 68.9904 709.416434)">客户端  |  11-16～12-20</text>
+   </g>
+   <g id="patch_23">
+    <path d="M 1057.165714 726.8544 
+L 1405.851429 726.8544 
+L 1405.851429 744.8256 
+L 1057.165714 744.8256 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #219c91"/>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="735.077836" transform="rotate(-0 68.9904 735.077836)">U02  医生工作台/审核/异常处置</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="746.856434" transform="rotate(-0 68.9904 746.856434)">后端＋客户端＋临床  |  11-23～12-27</text>
+   </g>
+   <g id="patch_24">
+    <path d="M 1126.902857 764.2944 
+L 1405.851429 764.2944 
+L 1405.851429 782.2656 
+L 1126.902857 782.2656 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #219c91"/>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="772.512094" transform="rotate(-0 68.9904 772.512094)">U03  专业智能体/合并/安全影子链路</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="784.296434" transform="rotate(-0 68.9904 784.296434)">算法＋临床  |  11-30～12-27</text>
+   </g>
+   <g id="patch_25">
+    <path d="M 1196.64 801.7344 
+L 1405.851429 801.7344 
+L 1405.851429 819.7056 
+L 1196.64 819.7056 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #b87b39"/>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="809.957836" transform="rotate(-0 68.9904 809.957836)">Q01  功能/集成/安全/压力/恢复</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="821.715184" transform="rotate(-0 68.9904 821.715184)">QA＋技术  |  12-07～12-27</text>
+   </g>
+   <g id="patch_26">
+    <path d="M 708.48 839.1744 
+L 1405.851429 839.1744 
+L 1405.851429 857.1456 
+L 708.48 857.1456 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #b87b39"/>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="847.424086" transform="rotate(-0 68.9904 847.424086)">Q02  临床内容/风险/试点准入</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="859.176434" transform="rotate(-0 68.9904 859.176434)">临床＋合规  |  10-19～12-27</text>
+   </g>
+   <g id="patch_27">
+    <path d="M 1405.851429 876.6144 
+L 1684.8 876.6144 
+L 1684.8 894.5856 
+L 1405.851429 894.5856 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #b87b39"/>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="884.8485" transform="rotate(-0 68.9904 884.8485)">Q03  首轮试点运行与问题关闭</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="896.616434" transform="rotate(-0 68.9904 896.616434)">PDT＋QA＋临床  |  12-28～01-24</text>
+   </g>
+   <g id="patch_28">
+    <path d="M 1266.377143 914.0544 
+L 1545.325714 914.0544 
+L 1545.325714 932.0256 
+L 1266.377143 932.0256 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #697681"/>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="922.272094" transform="rotate(-0 68.9904 922.272094)">O01  首批招募/支持/灰度/责任交接</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="934.056434" transform="rotate(-0 68.9904 934.056434)">运营＋临床  |  12-14～01-10</text>
+   </g>
+   <g id="patch_29">
+    <path d="M 1545.325714 951.4944 
+L 1684.8 951.4944 
+L 1684.8 969.4656 
+L 1545.325714 969.4656 
+z
+" clip-path="url(#pa9d6bfd38d)" style="fill: #697681"/>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="68.9904" y="959.733422" transform="rotate(-0 68.9904 959.733422)">O02  复盘/成本/扩展DCP决策</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="68.9904" y="971.475184" transform="rotate(-0 68.9904 971.475184)">PDT负责人  |  01-11～01-24</text>
+   </g>
+  </g>
+  <g id="text_55">
+   <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="51.84" y="69.12" transform="rotate(-0 51.84 69.12)">AI＋代谢管理｜20项交付任务甘特图</text>
+  </g>
+  <g id="text_56">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="51.84" y="120.96" transform="rotate(-0 51.84 120.96)">与已归档WBS日期逐项一致 · 岗位负责人待具名 · 训练与患者入组均有前置条件</text>
+  </g>
+  <g id="text_57">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="708.48" y="178.56" transform="rotate(-0 708.48 178.56)">2026-10-19 → 2027-01-24 / 日期按天定位，结束日计入任务时长</text>
+  </g>
+  <g id="text_58">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #132e43" x="51.84" y="1082.88" transform="rotate(-0 51.84 1082.88)">重点依赖：CGM接口与授权、训练数据许可/标签、团队与复核容量、机构及适用准入。模型未达门槛仅离线/影子运行。</text>
+  </g>
+  <g id="text_59">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #5a6e7d" x="51.84" y="1111.68" transform="rotate(-0 51.84 1111.68)">虚线对应11-01 DCP1、11-15 DCP2、12-27 DCP3、2027-01-10启动截止、01-24 DCP4；本图未计算资源约束关键路径。</text>
+  </g>
+  <g id="legend_1">
+   <g id="patch_30">
+    <path d="M 561 1043.941375 
+L 581 1043.941375 
+L 581 1036.941375 
+L 561 1036.941375 
+z
+" style="fill: #244f70; stroke: #244f70; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="589" y="1043.941375" transform="rotate(-0 589 1043.941375)">需求与立项</text>
+   </g>
+   <g id="patch_31">
+    <path d="M 659 1043.941375 
+L 679 1043.941375 
+L 679 1036.941375 
+L 659 1036.941375 
+z
+" style="fill: #527a97; stroke: #527a97; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="687" y="1043.941375" transform="rotate(-0 687 1043.941375)">架构与治理</text>
+   </g>
+   <g id="patch_32">
+    <path d="M 757 1043.941375 
+L 777 1043.941375 
+L 777 1036.941375 
+L 757 1036.941375 
+z
+" style="fill: #087f8c; stroke: #087f8c; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="785" y="1043.941375" transform="rotate(-0 785 1043.941375)">数据采集</text>
+   </g>
+   <g id="patch_33">
+    <path d="M 845 1043.941375 
+L 865 1043.941375 
+L 865 1036.941375 
+L 845 1036.941375 
+z
+" style="fill: #4d6ab1; stroke: #4d6ab1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="873" y="1043.941375" transform="rotate(-0 873 1043.941375)">决策模型</text>
+   </g>
+   <g id="patch_34">
+    <path d="M 933 1043.941375 
+L 953 1043.941375 
+L 953 1036.941375 
+L 933 1036.941375 
+z
+" style="fill: #219c91; stroke: #219c91; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="961" y="1043.941375" transform="rotate(-0 961 1043.941375)">用户与干预</text>
+   </g>
+   <g id="patch_35">
+    <path d="M 1031 1043.941375 
+L 1051 1043.941375 
+L 1051 1036.941375 
+L 1031 1036.941375 
+z
+" style="fill: #b87b39; stroke: #b87b39; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="1059" y="1043.941375" transform="rotate(-0 1059 1043.941375)">验证</text>
+   </g>
+   <g id="patch_36">
+    <path d="M 1099 1043.941375 
+L 1119 1043.941375 
+L 1119 1036.941375 
+L 1099 1036.941375 
+z
+" style="fill: #697681; stroke: #697681; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="1127" y="1043.941375" transform="rotate(-0 1127 1043.941375)">试点运营</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa9d6bfd38d">
+   <rect x="708.48" y="230.4" width="976.32" height="748.8"/>
+  </clipPath>
+ </defs>
+</svg>

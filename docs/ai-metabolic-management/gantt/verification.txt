@@ -1,0 +1,6 @@
+20 WBS tasks; weights sum to 100%; all task dates equal source CSV.
+14 calendar weeks, inclusive start/end dates.
+Excel: 4 sheets; date formulas, weekly conditional formats, maturity validation, weighted progress formulas.
+Milestones and phase percentages are conditional targets; actual product baseline=0%.
+Functional spreadsheet test on isolated copy: D01 moved to 2026-11-23..2026-12-06; bars moved to W6/W7; duration=14 days; maturity=0.25 -> contribution and total=0.0125; no spreadsheet formula errors. Delivered baseline unchanged.
+PDF contains two pages and all 20 source task IDs.
